@@ -1,3 +1,0 @@
-<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";a:2:{s:4:"body";s:0:"";s:4:"head";a:0:{}}s:6:"result";s:546:"<ul class="nav menu navigation">
-<li class="item-133"><span class="projects"  data-slide=1>Work</span></li><li class="item-134"><a class=" clients" href="/clients.html" >Clients</a></li><li class="item-135"><a class=" crew" href="/people.html" >People</a></li><li class="item-136"><a class=" services" href="/services.html" >Services</a></li><li class="item-138"><a href="/careers.html" >Careers</a></li><li class="item-195"><a href="/contact.html" >Contact</a></li><li class="item-197"><a href="/food-for-the-soul.html" >Community</a></li></ul>
-";}

@@ -1,3 +1,0 @@
-<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";a:2:{s:4:"body";s:0:"";s:4:"head";a:0:{}}s:6:"result";s:476:"<ul class="nav menu navigation primary-nav">
-<li class="item-173"><a class="projects" href="/home.html#work" >Work</a></li><li class="item-174"><a class=" clients" href="/clients.html" >Clients</a></li><li class="item-176"><a href="/" ><img src="images/allebach-header-logo.png" alt="Allebach" /></a></li><li class="item-178 active"><a class=" people" href="/people.html" >People</a></li><li class="item-179"><a class=" services" href="/services.html" >Services</a></li></ul>
-";}
