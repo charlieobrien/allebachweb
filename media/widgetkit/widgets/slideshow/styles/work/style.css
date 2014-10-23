@@ -1,0 +1,84 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Widgetkit Slideshow: Default Style
+ */
+
+
+/* Navigation
+----------------------------------------------------------------------------------------------------*/
+
+.wk-slideshow-default .nav {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.wk-slideshow-default .nav li {
+	display: inline-block;
+	margin-left: 5px;
+}
+.wk-slideshow-default .nav li:first-child { margin-left: 0; }
+
+.wk-slideshow-default .nav span {
+	width: 16px;
+	height: 15px;
+	background: url(images/nav.png) 0 0 no-repeat;
+	overflow: hidden;
+}
+.wk-slideshow-default .nav span:hover { background-position: 0 -30px; }
+.wk-slideshow-default .nav span:active { background-position: 0 -45px; }
+.wk-slideshow-default .nav .active span { background-position: 0 -15px; }
+
+/* Buttons
+----------------------------------------------------------------------------------------------------*/
+
+/*.wk-slideshow-default > div { position: relative; }*/
+
+.wk-slideshow-default > div.buttons {
+	text-align:center;
+	display:block;
+	background-color:#000000;
+	width:100%;
+	z-index:100;
+	color:#FFF;
+	vertical-align:middle;
+}
+
+.wk-slideshow-default > div.buttons .next,
+.wk-slideshow-default > div.buttons .prev {
+	width:auto !important;
+	height:auto !important;
+	background-image:none !important;
+	display:inline-block !important;
+	position:relative !important;
+	visibility:visible!important;
+	overflow:visible!important;
+	margin-top:0;
+	opacity:1 !important;
+	font-size:45px;
+	margin:0 10px;
+	padding:10px;
+}
+
+.wk-slideshow-default > div.buttons .next {
+	left:0;
+	right:0;
+}
+
+.wk-slideshow-default > div.buttons .prev {
+	left:0;
+	right:0;
+}
+
+
+/* Responsive
+----------------------------------------------------------------------------------------------------*/
+
+/* Only Touch Devices 
+@media (max-device-width: 1024px) {
+
+	.wk-slideshow-default .next,
+	.wk-slideshow-default .prev { display: none; }
+
+}
+*/

@@ -1,0 +1,7 @@
+div.csm_scrollable {position:relative;overflow:hidden;float:left;margin-left:20px;}
+div.csm_scrollable div.csm_items {width:200000px;position:absolute;}
+div.csm_scrollable div.csm_items div {float:left;}
+.prevbutton {background: url(../images/left.png) no-repeat top left;width:20px; height:40px;float:left;}
+.prevbutton:hover {background: url(../images/left.png) no-repeat bottom left;width:20px; height:40px;}
+.nextbutton {background: url(../images/right.png) no-repeat top left;width:20px; height:40px;float:right;}
+.nextbutton:hover {background: url(../images/right.png) no-repeat bottom left;width:20px; height:40px;}
